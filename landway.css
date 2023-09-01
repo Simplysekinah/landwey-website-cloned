@@ -1,0 +1,225 @@
+body{
+    margin: 0;
+    background-color: RGB(243 243 243);
+}
+.main{
+    background-color: RGB(255 255 255); 
+    height: 1400px;
+    width: 1150px;
+    margin-left: 100px;
+}
+.logo{
+    height: 100px;
+    width: 300px;
+    margin-left: 50px;
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    width: 1100px;
+}
+.head1{
+    margin-right: 100px;
+    font-weight: 300;
+    font-family: poppins;
+    display: flex;
+    align-items: baseline;
+}
+.button1{
+    border: 0px;
+    background-color: RGBA(0, 0, 0, 0);
+    font-weight: bold;
+}
+.button1:hover{
+    color: RGB(234, 91, 12);
+}
+.button2{
+    border: 0px;
+    background-color: RGBA(0, 0, 0, 0);
+    font-weight: bold;
+}
+.button2:hover{
+    color: RGB(234, 91, 12);
+}
+.button3{
+    border: 0px;
+    background-color: RGBA(0, 0, 0, 0);
+    font-weight: bold;
+    position: relative;
+}
+
+.button3:hover{
+    color: RGB(234, 91, 12);
+}
+.button4{
+    font-weight: bold;
+    border: 0px;
+    background-color: RGB(234, 91, 12) ;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    width: 150px;
+    
+}
+.new{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    font-weight:800;
+}
+.new1{
+    text-align: center;
+}
+.head2{
+    background-color: RGB(243 243 243); 
+    height: 900px;
+    width: 500px;
+    margin-left: 50px;
+    border-radius: 30px;
+    margin-top: 100px;
+}
+.terra{
+    width: 500px;
+    height: 500px;
+    border-radius: 30px 30px 0px 0px ;
+}
+.head3{
+    background-color: RGB(243 243 243); 
+    height: 900px;
+    width: 500px;
+    margin-left: 50px;
+    border-radius: 30px;
+    margin-top: 100px;
+}
+.headg{
+    display: flex;
+}
+.head4{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.button6{
+    border: 0px;
+    background-color: RGB(234, 91, 12) ;
+    height: 30px;
+    color: white;
+    font-weight: bold;
+    width: 250px;
+    margin-left: 20px;
+}
+.button7{
+    width: 120px;
+    height: 50px;
+    background-color: RGB(234, 91, 12);
+    border-radius: 30px;
+    border: 0;
+    color: white;
+    margin-left: 190px;
+    margin-top: 50px;
+}
+.icofont-dumbbell{
+    height: 20px;
+    width: 20px;
+    size: 150px;
+}
+.toolsn{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.tools{
+    margin-top: 30px;
+    margin-left: 20px;
+    
+}
+.side{
+    background-color: RGB(234, 91, 12);
+    color: white;
+    border: 0;
+    border-radius: 20px;
+    width: 250px;
+    height: 30px;
+    text-align: center;
+    margin-top: 280px;
+    padding-top: 5px;
+    position: fixed;
+    right: 0;
+}
+.shape{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+.shape1{
+    height: 75px;
+    width: 150px;
+    background-color: aqua;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.img1{
+    border-radius: 10px;
+    height: 75px;
+    width: 150px;
+}
+.shape2{
+    height: 75px;
+    width: 150px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+.img2{
+    border-radius: 10px;
+    height: 75px;
+    width: 150px;
+}
+.shape3{
+    height: 75px;
+    width: 150px;
+    background-color: aqua;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.img3{
+    border-radius: 10px;
+    height: 75px;
+    width: 150px;
+}
+.cs{
+    background-color: aqua;
+    position: fixed;
+    right: o;
+}
+.social{
+    color: aliceblue;
+}
+.drop1{
+    background-color: white;
+    color: black;
+    display: none;
+    position: absolute;
+    width: 300px;
+    height: 150px;
+    border-top: 4px solid RGB(234, 91, 12);
+}
+.dad:hover .drop1{
+    display: block;
+}
+.wey:hover{
+    color: RGB(234, 91, 12);
+}
+.tv:hover{
+    color: RGB(234, 91, 12);
+}
+.blog:hover{
+    color: RGB(234, 91, 12);
+}
+.us:hover{
+    color: RGB(234, 91, 12);
+}
